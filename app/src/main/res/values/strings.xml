@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="Agama">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+        <item>Konghucu</item>
+        <item>Lainnya</item>
+
+    </string-array>
+    <string name="Agama" translatable="false">Agama</string>
+
+</resources>
